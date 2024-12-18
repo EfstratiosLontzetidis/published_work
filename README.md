@@ -4,6 +4,7 @@ A repository to store all my published work that I have contributed to.
 
 ## Blogs
 
+- https://medium.com/@s.lontzetidis/greeces-2024-cyber-threat-landscape-trends-and-predictions-4015a1f0fbbc
 - https://medium.com/@s.lontzetidis/exploring-pythia-a-generic-query-format-for-discovering-malicious-infrastructure-8956876cc15a
 - https://medium.com/@s.lontzetidis/cyber-threat-intelligence-lifecycle-answering-the-cti-analyst-challenge-3ddf7e0be28c
 - https://medium.com/@s.lontzetidis/understanding-the-ransomware-ecosystem-1af87b3dc2e5
