@@ -3,6 +3,7 @@
 A repository to store all my published work that I have contributed to.
 
 ## Blogs
+- https://www.validin.com/blog/inoculating_contagious_interview_with_validin/
 - https://medium.com/@s.lontzetidis/lumma-2024-dominating-the-info-stealer-market-070e7d8fa3d6 & https://www.infostealers.com/article/lumma-2024-dominating-the-info-stealer-market/
 - https://medium.com/@s.lontzetidis/greeces-2024-cyber-threat-landscape-trends-and-predictions-4015a1f0fbbc & https://informationsecuritybuzz.com/greeces-2024-cyber-threat-landscape/
 - https://medium.com/@s.lontzetidis/exploring-pythia-a-generic-query-format-for-discovering-malicious-infrastructure-8956876cc15a
