@@ -3,6 +3,7 @@
 A repository to store all my published work that I have contributed to.
 
 ## Blogs
+- https://medium.com/@s.lontzetidis/lummastealer-campaign-too-much-love-for-software-pirates-66ebe4b2f3a6
 - https://www.validin.com/blog/inoculating_contagious_interview_with_validin/
 - https://medium.com/@s.lontzetidis/lumma-2024-dominating-the-info-stealer-market-070e7d8fa3d6 & https://www.infostealers.com/article/lumma-2024-dominating-the-info-stealer-market/
 - https://medium.com/@s.lontzetidis/greeces-2024-cyber-threat-landscape-trends-and-predictions-4015a1f0fbbc & https://informationsecuritybuzz.com/greeces-2024-cyber-threat-landscape/
