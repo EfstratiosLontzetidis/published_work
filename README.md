@@ -3,10 +3,15 @@
 A repository to store all my published work that I have contributed to.
 
 ## Blogs
+- https://blog.nviso.eu/2025/10/01/lunar-spider-expands-their-web-via-fakecaptcha/
+- https://blog.nviso.eu/2025/08/12/shedding-light-on-poisonseeds-phishing-kit/
+- https://www.obrela.com/advisory/editbot-a-new-infostealer-on-the-rise/
 - https://medium.com/@s.lontzetidis/lummastealer-campaign-too-much-love-for-software-pirates-66ebe4b2f3a6
 - https://www.validin.com/blog/inoculating_contagious_interview_with_validin/
 - https://medium.com/@s.lontzetidis/lumma-2024-dominating-the-info-stealer-market-070e7d8fa3d6 & https://www.infostealers.com/article/lumma-2024-dominating-the-info-stealer-market/
 - https://medium.com/@s.lontzetidis/greeces-2024-cyber-threat-landscape-trends-and-predictions-4015a1f0fbbc & https://informationsecuritybuzz.com/greeces-2024-cyber-threat-landscape/
+- https://www.obrela.com/advisory/pikabot-a-new-emerging-threat/
+- https://www.obrela.com/advisory/editbot-a-new-infostealer-on-the-rise/
 - https://medium.com/@s.lontzetidis/exploring-pythia-a-generic-query-format-for-discovering-malicious-infrastructure-8956876cc15a
 - https://medium.com/@s.lontzetidis/cyber-threat-intelligence-lifecycle-answering-the-cti-analyst-challenge-3ddf7e0be28c
 - https://medium.com/@s.lontzetidis/understanding-the-ransomware-ecosystem-1af87b3dc2e5
@@ -17,8 +22,6 @@ A repository to store all my published work that I have contributed to.
 
 ## Reports
 
-- https://www.obrela.com/advisory/pikabot-a-new-emerging-threat/
-- https://www.obrela.com/advisory/editbot-a-new-infostealer-on-the-rise/
 - https://www.obrela.com/advisory/prominent-ransomware-in-2024/
 - https://www.obrela.com/whitepaper/threat-intelligence-about-oil-gas-industry/
 - https://www.obrela.com/report/digital-universe-report-2023/
